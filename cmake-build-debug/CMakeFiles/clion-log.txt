@@ -1,0 +1,4 @@
+"/Users/gabrieljayme/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /Users/gabrieljayme/www/ifsp/esd-project1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gabrieljayme/www/ifsp/esd-project1/cmake-build-debug
